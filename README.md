@@ -1,3 +1,10 @@
 [![@neeltyper_001's Holopin board](https://holopin.me/neeltyper_001)](https://holopin.io/@neeltyper_001)
 
-## To be the part of open source contribution and stuff is the most exciting thing that can help a community a lot.
+### Hey there!!
+### I'm Neelesh Joshi
+- Currently pursuing B.tech in Computer Science Engineering 💻
+- 3rd Year Student 🧑‍🎓
+- DIT University 🏫
+## Currently learning and building 🛠️ myself in field of web development 
+
+
