@@ -3,7 +3,7 @@
 ### Hey there!!
 ### I'm Neelesh Joshi
 - Currently pursuing B.tech in Computer Science Engineering 💻
-- 3rd Year Student 🧑‍🎓
+- 4th Year Student 🧑‍🎓
 - DIT University 🏫
 ## Currently learning and building 🛠️ myself in field of web development 
 
