@@ -1,12 +1,12 @@
 [![@neeltyper_001's Holopin board](https://holopin.me/neeltyper_001)](https://holopin.io/@neeltyper_001)
 <h1 align="center">Hi 👋, I'm Neelesh Joshi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<img align="right" alt="Coding" width="400" src="/Assets/Matrix_Art.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neeltyper001&label=Profile%20views&color=0e75b6&style=flat" alt="neeltyper001" /> </p>
 
 - 🔭 I’m currently working on my small app **Memoriser**
 
-- ⚡ Fun fact **That retarded semi-colon which was the real pain !**
+- ⚡ Fun fact -  **That retarded semi-colon which was the real pain !**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -20,7 +20,6 @@
 <a href="https://www.codechef.com/users/neeltyper_001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="neeltyper_001" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/neeltyper_001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="neeltyper_001" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/neel_typer001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="neel_typer001" height="30" width="40" /></a>
-<a href="/edium.com/feed/@neeleshjoshi001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="edium.com/feed/@neeleshjoshi001" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
